@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+.vite/
+
+# Local environment
+.env
+.env.*
+!.env.example
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.Rhistory
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# Generated screenshots, exports, and temporary render artifacts
+screenshots/
+output/
+tmp/
+*.pdf
+scene-*.png
+theme-toggle-*.png
+ui-*.png
+
+# Thesis source/export material not required to run the presentation
+Classical_Format_Thesis/
+mapDiagram.drawio.html
