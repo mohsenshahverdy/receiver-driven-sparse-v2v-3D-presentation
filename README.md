@@ -87,14 +87,6 @@ public/
 - Change the visual design of cards, tables, and overlays in `src/polish.css`.
 - Reusable 3D objects live under `src/components/scene/`.
 
-## What is intentionally not included
-
-The repository keeps only the files needed to run and build the presentation. Generated screenshots, exported PDFs, temporary render files, local build output, dependency folders, and thesis LaTeX/export artifacts are excluded with `.gitignore`.
-
-## Academic context
-
-This presentation supports a master thesis on receiver-driven sparse V2V communication for cooperative perception. The central idea is that the ego vehicle should request only useful remote BEV feature cells, using receiver-side need, collaborator context, temporal memory, and learned sparse request control.
-
 ## Third-party notices
 
 See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for asset and inspiration notes.
