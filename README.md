@@ -4,6 +4,8 @@ Interactive browser-based 3D thesis presentation for receiver-driven sparse V2V 
 
 The presentation explains the motivation, BEV intermediate fusion, communication baselines, temporal cache, learned temporal receiver control, danger-aware metrics, trajectory-aware metrics, and final results through a guided React Three Fiber scene.
 
+![Receiver-driven sparse V2V presentation preview](docs/readme-preview.png)
+
 ## Overview
 
 This project is a polished thesis/demo presentation rather than a static slide deck. It uses a single interactive urban road scene and moves the camera through the thesis story:
